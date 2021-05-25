@@ -5,7 +5,7 @@ Hi👋 I am Abhishek Dhule, a final year IT Engineering student 👨‍🎓 at U
 
 💼 I do have gained experience of being a Django Developer Intern at Jugadu.in for three months where I worked on a B2B ecommerce platform. I addded features such as sort the products by price, release date etc. I also created agent referal pipeline which worked such that if a customer uses a referal id of an agent, agent used to get a cut(around 5%) of the total bill of the customer.
 
-🧠 I love to work in the field of machine learning and deep learning as well. I have completed certification course on neural networks and CNN offered by deeplearning.ai. I do have created a web application for detecting pneumonia using chest x-ray . 
+🧠 I love to work in the field of machine learning and deep learning. I have completed certification course on neural networks and CNN offered by deeplearning.ai. I do have created a web application for detecting pneumonia using chest x-ray . 
 <!--
 **abhishekkdhule/abhishekkdhule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
