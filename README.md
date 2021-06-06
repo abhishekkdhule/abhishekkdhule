@@ -1,4 +1,4 @@
-## Hi there 👋  I am Abhishek Dhule 👨‍💻 ![Profile views](https://gpvc.arturio.dev/abhishekkdhule)  
+## Hi there 👋  I am Abhishek Dhule 👨‍💻 | ![Profile views](https://gpvc.arturio.dev/abhishekkdhule)  
 ###  Django Developer 💻 | Problem solver 📝 | Deep Learning Enthusiast 🧠
 
 Hi👋 I am Abhishek Dhule, a final year IT Engineering student 👨‍🎓 at University of Mumbai. I have been learning Django since second year of my engineering. I do have created some projects such as a blog application, covid-19 tracker, get weather application, an ecommerce site using django framework. 
@@ -8,4 +8,5 @@ Hi👋 I am Abhishek Dhule, a final year IT Engineering student 👨‍🎓 at U
 🧠 I love to work in the field of machine learning and deep learning. I have completed certification course on neural networks and CNN offered by deeplearning.ai. I do have created a web application for detecting pneumonia using chest x-ray . 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekkdhule&show_icons=true) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekkdhule&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
