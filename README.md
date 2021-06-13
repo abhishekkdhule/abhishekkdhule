@@ -1,4 +1,4 @@
-## Hi there 👋  I am Abhishek Dhule 👨‍💻 | ![Profile views](https://gpvc.arturio.dev/abhishekkdhule)  
+## Hi there 👋  I am Abhishek Dhule 👨‍💻 
 ###  Django Developer 💻 | Problem solver 📝 | Deep Learning Enthusiast 🧠
 
 Hi👋 I am Abhishek Dhule, a final year IT Engineering student 👨‍🎓 at University of Mumbai. I have been learning Django since second year of my engineering. I do have created some projects such as a blog application, covid-19 tracker, get weather application, an ecommerce site using django framework. 
