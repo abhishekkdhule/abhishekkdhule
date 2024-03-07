@@ -7,7 +7,3 @@ Hi👋 I am Abhishek Dhule, a final year IT Engineering student 👨‍🎓 at U
 Currently I work at Apli.ai as a Full Stack Software Developer(Intern).
 
 🧠 I love to work in the field of machine learning and deep learning. I have completed certification course on neural networks and CNN offered by deeplearning.ai. I do have created a web application for detecting pneumonia using chest x-ray . 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekkdhule&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
